@@ -1,1 +1,1 @@
-Simple Password Generator with React + Vite
+Simple Password Generator built with with React + Vite
